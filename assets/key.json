@@ -1,0 +1,8 @@
+{
+  "algorithm": "AES-256-GCM",
+  "iterations": 200000,
+  "salt": "yNHvllfALZHd9kk4woOhpw==",
+  "iv": "grxjlD6LnZk4inL2",
+  "tag": "gJGzHMA+l6u1jU2RNSC/5g==",
+  "data": "g9Z4wuVwlY+IgX5eLL/YzgjgaA/4k5/tc3lc5lz9M6Vm/NlHQDFxgyWYByX3qQZ7gBqmnW/GVqj/sb+klTDp0lnEgsChro0+68mrXzRqO7uuqUM6PpiOBLVqGb2+93T6OhlqPcITx5rZ6Hh2nRxT1RqIFUWYuF4GLLDVkw=="
+}
